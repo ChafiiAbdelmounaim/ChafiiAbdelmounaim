@@ -6,10 +6,10 @@
 
 <h3 align="left">🏫 Academic Background</h3>
 
-<p align="left" style="font-size: 16px; line-height: 1.5;">
-  🎓 Associate Degree (DUT) in Computer Science from ESTK<br/>
-  🎓 Currently a Software Engineering Student @ ENSAK<br/>
-</p>
+<ul align="left" style="font-size:16px; line-height:1.5;">
+  <li>🎓 Associate Degree (DUT) in Computer Science from ESTK</li>
+  <li>🎓 Currently a Software Engineering Student @ ENSAK</li>
+</ul>
 
 <h3 align="left">🔥 Passionate About</h3>
 
