@@ -2,9 +2,9 @@
 
 ---
 
-<h2 align="left">🎃 About Me</h2>
+<h2 align="left">✨ About Me</h2>
 
-<h3 align="left">🎓 Academic Background</h3>
+<h3 align="left">🏫 Academic Background</h3>
 
 <p align="left" style="font-size: 16px; line-height: 1.5;">
   🎓 Associate Degree (DUT) in Computer Science from ESTK<br/>
