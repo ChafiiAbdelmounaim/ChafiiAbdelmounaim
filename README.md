@@ -72,6 +72,15 @@
 
 ---
 
+<h2 align="left">🤝 Let's Connect</h2>
+
+<p align="left">
+  📧 <a href="mailto:your.email@example.com">your.email@example.com</a><br/>
+  🔗 <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">LinkedIn</a><br/>
+  💬 <a href="https://wa.me/yourwhatsappphonenumber" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+</p>
+
+
 <!-- Optional animation suggestion -->
 
 <p align="center" style="margin-top: 2em;">
