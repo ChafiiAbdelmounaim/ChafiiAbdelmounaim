@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-uml-a-general-purpose-modeling-language-used-to-provide-a-standard-way-logo-color-tal-revivo.png" height="40" alt="uml logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40" alt="uml logo" />
 </p>
 
 
