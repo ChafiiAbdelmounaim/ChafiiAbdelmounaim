@@ -73,4 +73,15 @@
 </div>
 
 ###
+
+<section style="margin: 2em 0; font-style: italic; color: #555; border-left: 4px solid #4CAF50; padding-left: 1em;">
+  <h3>💡 Software Engineering Quote</h3>
+  <blockquote>
+    “Programs must be written for people to read, and only incidentally for machines to execute.”<br/>
+    — Harold Abelson
+  </blockquote>
+</section>
+
+
 ###
+
