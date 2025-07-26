@@ -90,5 +90,8 @@
   </a>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=228B22&vCenter=true&center=true&multiline=true&repeat=true&lines=Software+Engineering+Student;Backend+Developer;Clean+Code+Lover;Problem+Solver" alt="Typing SVG" />
+</h3>
 
 
