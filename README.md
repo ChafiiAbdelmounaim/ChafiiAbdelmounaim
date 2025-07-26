@@ -90,6 +90,7 @@
 
 <!-- Optional animation suggestion -->
 
-<p align="center" style="margin-top: 2em;">
-  <img src="https://cdn.dribbble.com/users/458522/screenshots/15432696/media/4a9396a2647b1c4ca0a93226318d8d3b.gif" alt="code animation" width="300" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Backend+Developer;Clean+Code+Lover;Problem+Solver" alt="Typing SVG" />
+</h3>
+
