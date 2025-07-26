@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h1 align="left">Hi There I am Chafii Abdelmounaim 👋</h1>
 
 ###
 
@@ -10,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 Associate Degree (DUT) in Computer Science from ESTK<br>🎓 Currently I am a Software Engineering Student @ENSAK<br>🧼 Clean Code & Clean Architecture<br>🛠️ Backend Development<br>🧩 Problem Solving & System Design<br>🔄 APIs & Microservices<br>🧪 Test-Driven Development</p>
 
 ###
 
