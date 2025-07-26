@@ -1,9 +1,8 @@
 <h1 align="left">👋 Hi there, I’m Chafii Abdelmounaim</h1>
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=1ABC9C&vCenter=true&center=true&multiline=true&repeat=true&lines=Software+Engineering+Student;Backend+Developer;Clean+Code+Lover;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Backend+Developer;Clean+Code+Lover;Problem+Solver" alt="Typing SVG" />
 </h2>
-
-
 
 ---
 
