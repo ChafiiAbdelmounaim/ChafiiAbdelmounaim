@@ -7,12 +7,18 @@
 <p align="left" style="font-size: 16px; line-height: 1.5;">
   🎓 Associate Degree (DUT) in Computer Science from ESTK<br/>
   🎓 Currently a Software Engineering Student @ ENSAK<br/>
-  🧼 Passionate about Clean Code & Clean Architecture<br/>
-  🛠️ Backend Development enthusiast<br/>
-  🧩 Problem Solving & System Design lover<br/>
-  🔄 APIs & Microservices builder<br/>
-  🧪 Advocate of Test-Driven Development
 </p>
+
+<h2 align="left">🔥 Passionate About</h2>
+
+<ul align="left" style="font-size:16px; line-height:1.5;">
+  <li>🧼 Clean Code & Clean Architecture</li>
+  <li>🛠️ Backend Development</li>
+  <li>🧩 Problem Solving & System Design</li>
+  <li>🔄 APIs & Microservices</li>
+  <li>🧪 Test-Driven Development</li>
+</ul>
+
 
 ---
 
