@@ -72,13 +72,20 @@
 
 ---
 
-<h2 align="left">🤝 Let's Connect</h2>
+## 🤝 Let's Connect
 
 <p align="left">
-  📧 <a href="mailto:your.email@example.com">your.email@example.com</a><br/>
-  🔗 <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">LinkedIn</a><br/>
-  💬 <a href="https://wa.me/yourwhatsappphonenumber" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/212612345678" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
+
 
 
 <!-- Optional animation suggestion -->
